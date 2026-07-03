@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MechKeySound</string>
+    <string name="accessibility_service_description">Phát tiếng phím cơ khi gõ bằng bàn phím ngoài (Bluetooth/USB) kết nối với điện thoại.</string>
+</resources>
